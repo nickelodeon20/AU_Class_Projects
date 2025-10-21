@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Canvas xmlns="http://www.jgrasp.org">
+  <Language>Java</Language>
+  <ShowTypes>false</ShowTypes>
+  <Version>2</Version>
+  <Grid>
+    <Snap>true</Snap>
+    <Show>false</Show>
+  </Grid>
+  <Scope id="0">
+    <Name>defaultTest</Name>
+    <Signature>()V</Signature>
+    <DeclaringType>LinkedSetTest</DeclaringType>
+    <Depth>37</Depth>
+  </Scope>
+  <Scope id="1">
+    <Name>locate</Name>
+    <Signature>(Ljava/lang/Comparable;)LLinkedSet$Node;</Signature>
+    <DeclaringType>LinkedSet</DeclaringType>
+    <Depth>40</Depth>
+  </Scope>
+  <Frame>
+    <Bounds>
+      <AutoSize>true</AutoSize>
+      <X>220</X>
+      <Y>100</Y>
+      <W>496</W>
+      <H>235</H>
+    </Bounds>
+    <Viewer>
+      <ScopeID>0</ScopeID>
+      <Expression>`local Set` co</Expression>
+      <ViewerClass>jgrasp_viewers.java__lang__Object_LinkedView</ViewerClass>
+      <ViewerData>
+        <ViewData>
+          <Round>false</Round>
+        </ViewData>
+      </ViewerData>
+    </Viewer>
+  </Frame>
+  <Frame>
+    <Bounds>
+      <AutoSize>true</AutoSize>
+      <X>40</X>
+      <Y>340</Y>
+      <W>124</W>
+      <H>50</H>
+    </Bounds>
+    <Viewer>
+      <ScopeID>1</ScopeID>
+      <Expression>`local java.lang.Comparable` element</Expression>
+      <ViewerClass>jgrasp_viewers._X_ElementView</ViewerClass>
+    </Viewer>
+  </Frame>
+  <Size>
+    <W>816</W>
+    <H>837</H>
+  </Size>
+  <ESize>
+    <W>816</W>
+    <H>837</H>
+  </ESize>
+</Canvas>
