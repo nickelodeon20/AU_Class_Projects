@@ -1,0 +1,6 @@
+project Default is
+   for Main use ("main.adb"); -- Specify main.adb as the main program
+   for Source_Dirs use ("./"); -- Specify the directory containing source files
+   for Object_Dir use "obj"; -- Specify the directory for compiled object files
+   for Exec_Dir use "bin"; -- Specify the directory for the executable
+end Default;
