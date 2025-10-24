@@ -8,18 +8,20 @@ As an important note, I **_<ins>have not<ins>_** written all parts of all files 
 
 I have tried to label all relevant files with a 1, 2, or 3 in front for clarity; any files not labeled are what I deemed unimportant or not relatively relevant, but they aren't hidden, so feel free to look through them as well. 
 
-### <ins> Fall 2023 (FA_23)<ins>
+## <ins> Fall 2023 (FA_23)<ins>
 
-##### COMP 1210 - Fundamentals of Computing I
+### COMP 1210 - Fundamentals of Computing I
 
 This is the first-level coding class required at Auburn. When I took it, it consisted of a lecture section and lab section, where the correspondent lab section predominantly consisted of online coding through ZyBooks that I do not have access to. It is largely an introductory course into coding, and as such the assignments are similar to provided code examples included. 
 
-### <ins> Spring 2024 (SPR_24)<ins>
+## <ins> Spring 2024 (SPR_24)<ins>
 
-##### COMP 2210 - Fundamentals of Computing II
+### COMP 2210 - Fundamentals of Computing II
 
 This second-level course is a direct sequel to COMP 1210 that reiterates on concepts introduced, expands into more complicated topics, and introduces new, relevant ideas. It is split into 7 modules, with many code samples and partial completion files to compliment 1-2 main student assignment files based on the concepts of that unit.
 
-Most units build on the previous to improve and reimpliment similar functions; for example, M2 implemented Selector.java differently than M1 based on new concepts in the course. Typically (but not always), the assignment in a module relates to the previous module (M2 Selector.java utilizes Generics while M1 does not) because the files are saved as the course progressed. So, an assignment for M1 concepts was due during the M2 unit and are organized as such. The main files for each unit are: 
+Some modules build on the previous to improve and reimpliment similar functions; for example, M2 implemented Selector.java differently than M1 based on new concepts in the course. Typically (but not always), the assignment in a module relates to the previous module (M2 Selector.java utilizes Generics while M1 does not) because the files are saved as the course progressed. So, an assignment for M1 concepts was due during the M2 unit and are organized as such. The main files for each unit are: 
   * M1 Generics, Iterators, Collections - Selector.java
   * M2 Sorting, Recursion - Selector.java
+  * M3 Bags, Array, Node-based Implementation - Term.java
+  * M4 Lists, Stacks, Queues
