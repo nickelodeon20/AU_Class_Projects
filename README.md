@@ -18,4 +18,8 @@ This is the first-level coding class required at Auburn. When I took it, it cons
 
 ##### COMP 2210 - Fundamentals of Computing II
 
-The second-level course Selector class is the main file to look at - implemented all methods in it over course of semester based on other assignments.
+This second-level course is a direct sequel to COMP 1210 that reiterates on concepts introduced, expands into more complicated topics, and introduces new, relevant ideas. It is split into 7 modules, with many code samples and partial completion files to compliment 1-2 main student assignment files based on the concepts of that unit.
+
+Most units build on the previous to improve and reimpliment similar functions; for example, M2 implemented Selector.java differently than M1 based on new concepts in the course. Typically (but not always), the assignment in a module relates to the previous module (M2 Selector.java utilizes Generics while M1 does not) because the files are saved as the course progressed. So, an assignment for M1 concepts was due during the M2 unit and are organized as such. The main files for each unit are: 
+  * M1 Generics, Iterators, Collections - Selector.java
+  * M2 Sorting, Recursion - Selector.java
