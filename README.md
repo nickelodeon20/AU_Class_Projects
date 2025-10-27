@@ -34,4 +34,6 @@ Some modules build on the previous to improve and reimpliment similar functions;
 
 ### COMP 2710 - Software Construction (C++)
 
-This class introduces C++ programming and augments concepts found in COMP 2210. It also discusses further topics like memory management (i.e. garbage collection, memory pointer addressing), deadlock prevention, 
+This class introduces C++ programming, Git version control (i.e. Ubuntu terminal), and augments concepts found in COMP 2210. It also discusses further topics like memory management (i.e. garbage collection, memory pointer addressing), deadlock prevention, and resource distribution. The coding for this class was largely indepedent, as 4/5 major projects were given with instructions but no template. However, the last 2 assignments - Project5 and FinalExam - are conceptual assignments where students were asked to fill in critical lines to almost complete code relating to semaphores and the Dining Philosopher's problem respectively. 
+
+For Project3, there are three files (the submission, v1, and v2) created because of assignment instructions that asked for an original version, a second verision, and then a final version that merged those two together using Git commands. 
