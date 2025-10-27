@@ -18,10 +18,20 @@ This is the first-level coding class required at Auburn. When I took it, it cons
 
 ### COMP 2210 - Fundamentals of Computing II
 
-This second-level course is a direct sequel to COMP 1210 that reiterates on concepts introduced, expands into more complicated topics, and introduces new, relevant ideas. It is split into 7 modules, with many code samples and partial completion files to compliment 1-2 main student assignment files based on the concepts of that unit.
+This second-level course is a direct sequel to COMP 1210 that reiterates on concepts introduced, expands into more complicated topics, and introduces new, relevant ideas. It is split into 7 modules, with many code samples and partial completion files to compliment 1-2 main student assignment files based on the concepts of that unit. After reviewing code, it seems that not every module has a file, which could be because of course structure (i.e. no file due on midterms week) or because of a misplaced file in another folder. 
 
 Some modules build on the previous to improve and reimpliment similar functions; for example, M2 implemented Selector.java differently than M1 based on new concepts in the course. Typically (but not always), the assignment in a module relates to the previous module (M2 Selector.java utilizes Generics while M1 does not) because the files are saved as the course progressed. So, an assignment for M1 concepts was due during the M2 unit and are organized as such. The main files for each unit are: 
   * M1 Generics, Iterators, Collections - Selector.java
   * M2 Sorting, Recursion - Selector.java
   * M3 Bags, Array, Node-based Implementation - Term.java
-  * M4 Lists, Stacks, Queues
+  * M4 Lists, Stacks, Queues - LinkedSet.java
+  * M5 Binary, AVL, Red-Black Trees - LinkedSet.java (same as M4)
+  * M6 Hashtables, Graphs - Doublets.java, DoubletsTreeSet.java
+  * M7 Disjoint Sets, Union-Find Trees - Doublets.java (same as M6)
+
+
+## <ins> Fall 2024 (FA_24)<ins>
+
+### COMP 2710 - Software Construction (C++)
+
+This class introduces C++ programming and augments concepts found in COMP 2210. It also discusses further topics like memory management (i.e. garbage collection, memory pointer addressing), deadlock prevention, 
