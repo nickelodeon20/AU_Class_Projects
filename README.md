@@ -37,3 +37,8 @@ Some modules build on the previous to improve and reimpliment similar functions;
 This class introduces C++ programming, Git version control (i.e. Ubuntu terminal), and augments concepts found in COMP 2210. It also discusses further topics like memory management (i.e. garbage collection, memory pointer addressing), deadlock prevention, and resource distribution. The coding for this class was largely indepedent, as 4/5 major projects were given with instructions but no template. However, the last 2 assignments - Project5 and FinalExam - are conceptual assignments where students were asked to fill in critical lines to almost complete code relating to semaphores and the Dining Philosopher's problem respectively. 
 
 For Project3, there are three files (the submission, v1, and v2) created because of assignment instructions that asked for an original version, a second verision, and then a final version that merged those two together using Git commands. 
+
+
+### COMP 3350 - Computer Organizaion and Assembly Language Programming (MIPS)
+
+This class explores higher level concepts and the direct, intricate relationship between programming languages and hardware components. Most coding files are indpendent assignment, apart from the first lab, and are written in MIPS Assembly. It focuses on understanding interaction of parts like the ALU, CPU, 
