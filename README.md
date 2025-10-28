@@ -55,7 +55,7 @@ Assignment 1 focuses on implementing different types of Search algorithms, speci
 Assignment 2 focuses on building an undirected, connected graph and then evaluating both Breath First Search and Depth First Search on the graph when traveling between all nodes. Again, time functions were included as part of the assignment to track performance. 
 
 
-### COMP 3220 - Principles of Programming Langauges (Ruby, Ada, Racket, ..)
+### COMP 3220 - Principles of Programming Langauges (Ruby, Ada, Racket)
 
-This class was focused on breaking down how programming languages function, introducing and covering many different programming languages in order to explain various concepts. 
+This class was focused on breaking down how programming languages function, introducing and covering many different programming languages in order to best explain various concepts. Modules 1-3 are in Ruby and build off each other from a lexer to a parser to an AST (Abstract Syntax Tree) in the custom-created language "tiny". The 4th module utilizes Racket to learn managing variable and function behavior in the proper environment. Lastly, the 5th module is in Ada and includes functions for binary operations like addition and subtraction; main.adb is **2** because I did not write the test cases, I only filled in my numbers and added debugging print statements. 
 
