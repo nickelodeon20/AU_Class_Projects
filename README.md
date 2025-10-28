@@ -6,7 +6,7 @@ The structure of this GitHub is arranged to have the majority of coding assignme
 
 As an important note, I **_<ins>have not<ins>_** written all parts of all files in this GitHub; some entire files were provided to me in lectures and saved on my computer for studying purposes, other entire files as part of the assignment (i.e. given 2 files and instructed to write/complete the 3rd), some were partially complete, and some were entirely opened-ended coding. I have (to the best of my ability) read over old assignments and designated files as those 3 categories of **1) Provided to me**, **2) Partially Written by me**, and **3) Predominantly Written by me**. For 3, I refer to more than 95% of the written code was opened-ended, with some hints or small sections provided as starter code in the assignment instructions. 
 
-I have tried to label all relevant files with a 1, 2, or 3 in front for clarity; any files not labeled are what I deemed unimportant or not incredibly relevant, but they aren't hidden, so feel free to look through them as well. 
+I have tried to label all relevant files with a 1, 2, or 3 in front for clarity; any files not labeled are what I deemed unimportant or not incredibly relevant, but they aren't hidden, so feel free to look through them as well. To view, just select the semester folder, class folder, and specific file. 
 
 
 ## <ins> Spring 2025 (SPR_25)<ins>
