@@ -10,13 +10,13 @@ I have tried to label all relevant files with a 1, 2, or 3 in front for clarity;
 
 ## <ins> Fall 2023 (FA_23)<ins>
 
-### COMP 1210 - Fundamentals of Computing I
+### COMP 1210 - Fundamentals of Computing I (Java)
 
 This is the first-level coding class required at Auburn. When I took it, it consisted of a lecture section and lab section, where the correspondent lab section predominantly consisted of online coding through ZyBooks that I do not have access to. It is largely an introductory course into coding, and as such the assignments are similar to provided code examples included. 
 
 ## <ins> Spring 2024 (SPR_24)<ins>
 
-### COMP 2210 - Fundamentals of Computing II
+### COMP 2210 - Fundamentals of Computing II (Java)
 
 This second-level course is a direct sequel to COMP 1210 that reiterates on concepts introduced, expands into more complicated topics, and introduces new, relevant ideas. It is split into 7 modules, with many code samples and partial completion files to compliment 1-2 main student assignment files based on the concepts of that unit. After reviewing code, it seems that not every module has a file, which could be because of course structure (i.e. no file due on midterms week) or because of a misplaced file in another folder. 
 
@@ -41,4 +41,16 @@ For Project3, there are three files (the submission, v1, and v2) created because
 
 ### COMP 3350 - Computer Organizaion and Assembly Language Programming (MIPS)
 
-This class explores higher level concepts and the direct, intricate relationship between programming languages and hardware components. Most coding files are indpendent assignment, apart from the first lab, and are written in MIPS Assembly. It focuses on understanding interaction of parts like the ALU, CPU, 
+This class explores higher level concepts and the direct, intricate relationship between programming languages and hardware components. Most coding files are indpendent assignment, apart from the first lab, and are written in MIPS Assembly. It focuses on understanding interaction of parts like the ALU, CPU, Databuses, and Registers on low levels on computer function and control. 
+
+
+## <ins> Spring 2025 (SPR_25)<ins>
+
+### COMP 3270 - Intro to Algorithms (Java)
+
+The majority of this class was conceptual and lecture-based opened-ended questions, which is why there are only 2 coding assignments. Concepts like Search, Recursion, Loop Invariants, and Data structures were revisited while new concepts like Big O Notation and Complexity classes (P, NP, NP hard, etc.) were introduced and throroughly explained. 
+
+Assignment 1 focuses on implementing different types of Search algorithms, specifically writing code for SelectionSort, MergeSort, QuickSort, and InsertionSort algorithms and all helper/assisting functions if necessary. There are also time functions inside, as part of the assignment was to track the average speed of each.
+
+Assignment 2 focuses on building an undirected, connected graph and then evaluating both Breath First Search and Depth First Search on the graph when traveling between all nodes. Again, time functions were included as part of the assignment to track performance. 
+
