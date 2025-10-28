@@ -54,3 +54,8 @@ Assignment 1 focuses on implementing different types of Search algorithms, speci
 
 Assignment 2 focuses on building an undirected, connected graph and then evaluating both Breath First Search and Depth First Search on the graph when traveling between all nodes. Again, time functions were included as part of the assignment to track performance. 
 
+
+### COMP 3220 - Principles of Programming Langauges (Ruby, Ada, Racket, ..)
+
+This class was focused on breaking down how programming languages function, introducing and covering many different programming languages in order to explain various concepts. 
+
